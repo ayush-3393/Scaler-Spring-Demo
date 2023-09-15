@@ -1,0 +1,1 @@
+Creating a simple Spring Web Api to greet the users.
